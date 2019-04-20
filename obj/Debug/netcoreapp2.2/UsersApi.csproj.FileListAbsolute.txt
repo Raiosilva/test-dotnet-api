@@ -1,0 +1,14 @@
+C:\WINDOWS\system32\TCC\UsersApi\bin\Debug\netcoreapp2.2\UsersApi.deps.json
+C:\WINDOWS\system32\TCC\UsersApi\bin\Debug\netcoreapp2.2\UsersApi.runtimeconfig.json
+C:\WINDOWS\system32\TCC\UsersApi\bin\Debug\netcoreapp2.2\UsersApi.runtimeconfig.dev.json
+c:\WINDOWS\system32\TCC\UsersApi\bin\Debug\netcoreapp2.2\UsersApi.dll
+c:\WINDOWS\system32\TCC\UsersApi\bin\Debug\netcoreapp2.2\UsersApi.pdb
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.csprojAssemblyReference.cache
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.csproj.CoreCompileInputs.cache
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.RazorAssemblyInfo.cache
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.RazorAssemblyInfo.cs
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.AssemblyInfoInputs.cache
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.AssemblyInfo.cs
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.RazorTargetAssemblyInfo.cache
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.dll
+c:\WINDOWS\system32\TCC\UsersApi\obj\Debug\netcoreapp2.2\UsersApi.pdb
